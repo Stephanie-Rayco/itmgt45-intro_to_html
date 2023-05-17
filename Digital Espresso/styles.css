@@ -1,0 +1,106 @@
+h1 {
+  color: beige;
+  text-align: center;
+  font-family: Arial
+}
+
+h5 {
+color: beige;
+text-align: center ;
+font-size: 40;
+
+font-family: Arial;
+
+}
+
+h3 {
+  color: beige;
+  text-align: center;
+  font-family: Arial
+}
+
+h6 {
+  color: beige;
+  text-align: center ;
+  font-size: 55;
+  
+  font-family: Arial;
+  line-height: 0%;
+ 
+  
+}
+
+hr {
+  height:5px;
+  border-width:0;
+  background-color:beige;
+  line-height: 0%;
+}
+
+.topnav {
+  background-color: rgb(200, 131, 108);
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: left;
+  color: #622F22;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: green;
+  color: white;
+}
+
+
+.topnav a.active {
+  background-color: rgb(238, 236, 93);
+  color: rgb(20, 20, 19);
+}
+
+body {
+  background-color:#622F22;
+  text-align: center;
+  font-family: Arial;
+  line-height: 0
+}
+
+a:link {
+color: green;
+background-color: transparent;
+text-decoration: none;
+}
+
+a:visited {
+color: rgb(249, 247, 247);
+background-color: transparent;
+text-decoration: none;
+}
+
+a:hover {
+color: rgb(249, 228, 91);
+background-color: transparent;
+text-decoration: underline;
+}
+
+a:active {
+color: green;
+background-color: transparent;
+text-decoration: underline;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(200, 131, 108);
+  color: rgb(247, 249, 247);;
+  width: 100%;
+}
